@@ -7,7 +7,7 @@
 <body style="text-align: center; font-family: Arial; background-color: #fff8f0;">
   <h1>🥞 Welcome to My Pancake Website</h1>
   <p>Here is a delicious stack of pancakes:</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Stack_of_pancakes.jpg" alt="Stack of Pancakes" width="400">
+  <img src="https://images.unsplash.com/photo-1587731246033-75d2953e8b7e" alt="Stack of Pancakes" width="400">
 </body>
 </html>
 
